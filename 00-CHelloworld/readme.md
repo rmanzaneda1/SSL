@@ -1,1 +1,1 @@
-Visual Studio Code
+Compilador MinGW - Editor Visual Studio Code
